@@ -9,3 +9,19 @@ Installation
 
 https://github.com/MuslumHanOZTURK/kodluyoruzilkrepo.git
 
+Usage
+
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+cd kodluyoruzilkrepo
+code
+
+Contributing
+
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyideğiştirmek
+istediğinizi tartışmak için bir konu açınız.
+
+Licence
+
+MIT
+
